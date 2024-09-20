@@ -1,0 +1,99 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Chosen"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Proident do anim excepteur in dolore culpa in labore nulla et esse reprehenderit commodo minim ipsum."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Culpa consectetur anim eiusmod dolore proident velit."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "exciting",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1",
+					"width": 5616,
+					"height": 3744
+				},
+				"url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1",
+				"width": 5616,
+				"height": 3744,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Breath"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Enim incididunt consectetur in incididunt magna aute velit dolore reprehenderit nisi qui ipsum proident. Nulla non aliquip aute in ullamco nostrud sint veniam irure proident quis. Ex eu exercitation deserunt veniam dolor pariatur velit magna culpa in adipisicing in ex aliqua."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
